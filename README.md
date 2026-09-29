@@ -267,7 +267,6 @@ pandas ETL & cleaning
 
 <div align="center">
 
-**Built with 🖤 by [Hari Maheshwari](https://github.com/haryflux)**
 
 *GeoSentinel v2.1 — Disaster intelligence, always on.*
 
